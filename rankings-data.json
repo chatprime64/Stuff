@@ -344,19 +344,26 @@
       "data": [
         {
           "rank": 1,
+          "name": "Markus Palkoci",
+          "single": "",
+          "average": "",
+          "wcaId": ""
+        },
+        {
+          "rank": 2,
           "name": "Tonnam Tantikamnerdkul",
           "single": "51.07",
           "average": "59.81",
           "wcaId": "2022TANT01"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Yune Ham",
           "single": "6:40.62",
           "average": ""
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Abtin Kha",
           "single": "8:08.25",
           "average": ""
