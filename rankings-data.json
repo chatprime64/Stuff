@@ -298,26 +298,33 @@
       "data": [
         {
           "rank": 1,
+          "name": "Markus Palkoci",
+          "single": "",
+          "average": "",
+          "wcaId": ""
+        },
+        {
+          "rank": 2,
           "name": "Tonnam Tantikamnerdkul",
           "single": "2.81",
           "average": "4.81",
           "wcaId": "2022TANT01"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Priya Raghu",
           "single": "13.44",
           "average": "15.98",
           "wcaId": "2025RAGH05"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Siddhant Bairwa",
           "single": "37.90",
           "average": "43.73"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "James Lin",
           "single": "1:08.44",
           "average": "",
