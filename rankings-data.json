@@ -169,17 +169,17 @@
       "data": [
         {
           "rank": 1,
+          "name": "Markus Palkoci",
+          "single": "18.97",
+          "average": "17.86",
+          "wcaId": ""
+        },
+        {
+          "rank": 2,
           "name": "Tonnam Tantikamnerdkul",
           "single": "20.96",
           "average": "",
           "wcaId": "2022TANT01"
-        },
-        {
-          "rank": 2,
-          "name": "Markus Palkoci",
-          "single": "18.97",
-          "average": "30.97",
-          "wcaId": ""
         }
       ]
     },
