@@ -152,19 +152,66 @@
         }
       ]
     },
-    { "event": "2x2x2", "data": [] },
-    { "event": "4x4x4", "data": [] },
-    { "event": "5x5x5", "data": [] },
-    { "event": "6x6x6", "data": [] },
-    { "event": "7x7x7", "data": [] },
-    { "event": "3x3x3BLD", "data": [] },
-    { "event": "FMC", "data": [] },
-    { "event": "3x3x3OH", "data": [] },
-    { "event": "Clock", "data": [] },
-    { "event": "Megaminx", "data": [] },
-    { "event": "Pyraminx", "data": [] },
-    { "event": "Skewb", "data": [] },
-    { "event": "Square-1", "data": [] }
+    {
+      "event": "2x2x2",
+      "data": []
+    },
+    {
+      "event": "4x4x4",
+      "data": []
+    },
+    {
+      "event": "5x5x5",
+      "data": []
+    },
+    {
+      "event": "6x6x6",
+      "data": [
+        {
+          "rank": 1,
+          "name": "Tonnam Tantikamnerdkul",
+          "single": "20.96",
+          "average": "",
+          "wcaId": "2022TANT01"
+        }
+      ]
+    },
+    {
+      "event": "7x7x7",
+      "data": []
+    },
+    {
+      "event": "3x3x3BLD",
+      "data": []
+    },
+    {
+      "event": "FMC",
+      "data": []
+    },
+    {
+      "event": "3x3x3OH",
+      "data": []
+    },
+    {
+      "event": "Clock",
+      "data": []
+    },
+    {
+      "event": "Megaminx",
+      "data": []
+    },
+    {
+      "event": "Pyraminx",
+      "data": []
+    },
+    {
+      "event": "Skewb",
+      "data": []
+    },
+    {
+      "event": "Square-1",
+      "data": []
+    }
   ],
   "official": [
     {
@@ -193,18 +240,57 @@
         }
       ]
     },
-    { "event": "2x2x2", "data": [] },
-    { "event": "4x4x4", "data": [] },
-    { "event": "5x5x5", "data": [] },
-    { "event": "6x6x6", "data": [] },
-    { "event": "7x7x7", "data": [] },
-    { "event": "3x3x3BLD", "data": [] },
-    { "event": "3x3x3OH", "data": [] },
-    { "event": "FMC", "data": [] },
-    { "event": "Clock", "data": [] },
-    { "event": "Megaminx", "data": [] },
-    { "event": "Pyraminx", "data": [] },
-    { "event": "Skewb", "data": [] },
-    { "event": "Square-1", "data": [] }
+    {
+      "event": "2x2x2",
+      "data": []
+    },
+    {
+      "event": "4x4x4",
+      "data": []
+    },
+    {
+      "event": "5x5x5",
+      "data": []
+    },
+    {
+      "event": "6x6x6",
+      "data": []
+    },
+    {
+      "event": "7x7x7",
+      "data": []
+    },
+    {
+      "event": "3x3x3BLD",
+      "data": []
+    },
+    {
+      "event": "3x3x3OH",
+      "data": []
+    },
+    {
+      "event": "FMC",
+      "data": []
+    },
+    {
+      "event": "Clock",
+      "data": []
+    },
+    {
+      "event": "Megaminx",
+      "data": []
+    },
+    {
+      "event": "Pyraminx",
+      "data": []
+    },
+    {
+      "event": "Skewb",
+      "data": []
+    },
+    {
+      "event": "Square-1",
+      "data": []
+    }
   ]
 }
